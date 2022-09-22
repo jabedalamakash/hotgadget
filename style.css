@@ -1,0 +1,135 @@
+section{
+margin-bottom: 150px;
+
+}
+
+@font-face {
+    font-family: 'druk';
+    src: url(font/DrukWide-Medium-Trial.otf);
+}
+
+.navbar-nav a{
+  
+    color:white;
+    
+}
+
+a{
+    text-decoration: none;
+    color: darkorange;
+}
+.yellow{
+    color: yellow;
+    
+}
+.card-body{
+    text-align: center;
+}
+
+
+
+body{
+    margin: 0;
+    font-family: druk;
+    font-weight: 100;
+    background-image:linear-gradient(160deg, #16222A, #3A6073) !important;
+}
+.price{
+    text-align: center;
+    color: black;
+}
+.buy{
+    text-align: center;
+    color: white;
+    background-color: black;
+    border: none;
+    padding:5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+.under{
+    text-align: center;
+    padding: 40px 20px;
+    
+}
+
+  .carousel-indicators .active {
+    background-image: linear-gradient(45deg,#f127 , #ffd019);
+ 
+   
+  }
+
+.carousel-item{
+    background-image: url(bg-1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 6%;
+
+}
+.banner{
+    background-image: url(bg-2.png);
+    background-repeat: no-repeat;
+    background-position:left bottom;
+    background-size: 8%;
+}
+
+.nav{
+    background-image: linear-gradient(30deg, #2b5876, #4e4376);
+    border: none;
+   
+   
+}
+#phone, #laptop{
+    margin-bottom: 150px;
+}
+.wh{
+    color: white;
+}
+h2{
+    margin-bottom: 40px;
+    color: white;
+}
+.card{
+    padding-top: 40px;
+    border:none ;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 15px 17px #1D1D1D;
+
+}
+footer{
+    border-top: 1px solid white;
+    color: white;
+    text-align: center;
+    padding: 20px 40px;
+}
+
+h1{
+    color: white;
+}
+p{
+    color:black;
+}
+.box{
+    width: 200px;
+    box-shadow:10px 5px 15px #36454f;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 30px 30px;
+
+}
+.cat{
+    text-align: center;
+}
+
+
+.underline{
+    width: 150px;
+    height: 8px;
+    border-radius: 10px;
+    background-image: linear-gradient(45deg,#f127 , #ffd019);
+    margin: 0 auto;
+  }
+ 
