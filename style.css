@@ -87,7 +87,7 @@ body{
     color: white;
 }
 h2{
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     color: white;
 }
 .card{
@@ -131,5 +131,12 @@ p{
     border-radius: 10px;
     background-image: linear-gradient(45deg,#f127 , #ffd019);
     margin: 0 auto;
+    margin-bottom: 50px;
   }
- 
+ #aboutus h2{
+    text-align: center;
+ }
+
+ #contactus h2{
+text-align: center;
+ }
