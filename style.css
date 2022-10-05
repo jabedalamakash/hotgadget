@@ -1,6 +1,9 @@
-section{
-margin-bottom: 150px;
+/* section{
+margin-bottom: 80px;
 
+} */
+.navigation,.cat,#aboutus, #products{
+    margin-bottom: 100px;
 }
 
 @font-face {
@@ -72,6 +75,7 @@ body{
     background-repeat: no-repeat;
     background-position:left bottom;
     background-size: 8%;
+    margin-bottom: 150px;
 }
 
 .nav{
@@ -140,3 +144,15 @@ p{
  #contactus h2{
 text-align: center;
  }
+#contactus {
+    color:white;
+}
+.social img{
+    height: 50px;
+    width: 50px;
+    margin-right: 25px;
+}
+.social{
+    padding: 40px ;
+    text-align: center;
+}
